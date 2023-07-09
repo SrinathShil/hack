@@ -11,7 +11,7 @@ git push -u origin main
 > **Google Cloud**
 1.In Terraform to manage and create resources we  Create a Service Account in [Google Cloud Console] (https://console.cloud.google.com/) 
 Name:- terraform-hack
-![alt text](https://github.com/SrinathShil/hack/blob/master/img/img1.jpg?raw=true)
+https://user-images.githubusercontent.com/16732195/252139532-03915f70-0927-4e94-844f-7773b986db34.JPG
 
 2. Assign role roles/storage.admin to service account from cloud storage
 <html>
